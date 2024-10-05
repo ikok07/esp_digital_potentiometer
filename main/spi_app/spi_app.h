@@ -11,6 +11,8 @@
 
 #define SPI_APP_CLK_SPEED_MHZ       5
 
+#define SPI_APP_WRITE_MODE          0xB0
+
 #include <stdint.h>
 
 /**
